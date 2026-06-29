@@ -118,7 +118,7 @@ nav a {
 .hero-image, .profile-photo {
   position: absolute;
   inset: 0;
-  background-image: url("cabinet-babak-v2.png");
+  background-image: url("cabinet-babak-v2-bw.png");
   background-position: center 38%;
   background-size: cover;
   filter: grayscale(1);
